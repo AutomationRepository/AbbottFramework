@@ -7,16 +7,16 @@ This project allows the testers to add, and run test cases in parallel while kee
 
 ## Table of contents
 
-1. [src/main/java](#src/main/java)
-2. [src/main/resources](#src/main/resources)
-3. [src/test/java](#src/test/java)
-4. [src/test/resources](#src/test/resources)
+1. [src_main_java](#src_main_java)
+2. [src_main_resources](#src_main_resources)
+3. [src_test_java](#src_test_java)
+4. [src_test_resources](#src_test_resources)
 5. [Reports](#Reports)
 6. [pom.xml](#POM_File)
 7. [testNG.xml](#testNG_File)
 
 
-## src/main/java
+## src_main_java
 There are 3 packages under src/main/java
 
  ![image](https://user-images.githubusercontent.com/110168437/198846592-c7960101-97cf-42dc-9c99-07eba41e9197.png)
@@ -48,11 +48,11 @@ There are 3 packages under src/main/java
       5. TestRetryAnalyzer - This class implements the IRetryAnalyzer Interface of TestNG that executes the method twice on failure.
       6. TestRetryAnalyzer - This class implements the IAnnotationTransformer Interface of TestNG that enable the user to execute retry logic written in TestRetryAnalyzer class at method level instead of just class level.
   
-## src/main/resources
+## src_main_resources
 ![image](https://user-images.githubusercontent.com/110168437/198849573-1112a8db-924a-4acd-abd5-d06f470cde15.png)
  
  it contains the log4j.xml that indicates the routing location,pattern layout and the level of logging required.
-## src/test/java
+## src_test_java
 ![image](https://user-images.githubusercontent.com/110168437/198850386-371c4769-c128-4e33-9f6e-7add96abe223.png)
 The test cases related to the SRS document shared for Paitient and Professional tab under header has been placed under tests package and HomePageHeader.java file.
 
@@ -123,7 +123,7 @@ Test Cases.
 
 
 
-## src/test/resources
+## src_test_resources
 
 ![image](https://user-images.githubusercontent.com/110168437/198849733-44bcc8a1-0fbb-4099-a21c-a36a982c4039.png)
 
