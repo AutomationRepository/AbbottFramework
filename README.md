@@ -2,8 +2,12 @@
 
 This project allows the testers to add, and run test cases in parallel while keeping the execution thread safe.The Project Integrates TestNg, Maven, ExtendReport and Log4j and uses Java with Selenium as it's primary language for UI Automation.
 
-## Working of the Project
+## Triggering point
+It is a custome developed Framework, we can execute it from inside or outside IDE. To execute it via command prompt we will require to install maven on our local machine and use Maven commands to execute the pom.xml file.
+From IDE like eclipse,ItelliJ we can right click on the POM.xml file and execute the desired Maven Goal. Also we can right click on the testNG.xml file and select option "run suite", Make sure that testNG is installed.
 
+**Highlevel Triggering sequence**
+POM.xml-> testNG.xml-> setup method(contain before and after class) ->Test cases under src/test/java -> Paje Object Model under src/main/java[this internally will call multiple classes based on implementation]
 
 ## Table of contents
 
@@ -138,7 +142,16 @@ It consits of testdata folder that has json file containing test data and config
 
 Extend Report is generated under this folder.
 
+![image](https://user-images.githubusercontent.com/110168437/198885349-55313b34-00f4-4164-bb31-f7156a27a227.png)
 
+![image](https://user-images.githubusercontent.com/110168437/198885364-d6876df8-7b39-4cb6-9884-ac9643555128.png)
+
+
+![image](https://user-images.githubusercontent.com/110168437/198885353-6afba041-6033-4dd9-af1c-9724ca46b6e3.png)
+
+Failure Result, Screen shot is attached on failure.
+
+![image](https://user-images.githubusercontent.com/110168437/198885378-2dba61bd-b124-4b1f-95f7-fbbb621613ef.png)
 
 ## POM_File
 This file contains all the dependencies,plugin and configuration required for running this project. The configuration of surefire enables us to point to the testNG.xml file that contians the test execution configuration.
