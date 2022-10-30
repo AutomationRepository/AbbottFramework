@@ -7,6 +7,7 @@ It is a custome developed Framework, we can execute it from inside or outside ID
 From IDE like eclipse,ItelliJ we can right click on the POM.xml file and execute the desired Maven Goal. Also we can right click on the testNG.xml file and select option "run suite", Make sure that testNG is installed.
 
 **Highlevel Triggering sequence**
+
 POM.xml-> testNG.xml-> setup method(contain before and after class) ->Test cases under src/test/java -> Paje Object Model under src/main/java[this internally will call multiple classes based on implementation]
 
 ## Table of contents
