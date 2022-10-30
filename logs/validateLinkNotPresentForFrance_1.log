@@ -1,0 +1,58 @@
+[INFO ] 2022-10-30 19:50:40.406 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 19:50:40.435 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:50:40.475 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:50:40.517 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:50:41.304 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:50:41.304 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:50:41.525 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:50:58.223 - utilities.ListenerForEachTest:onTestStart 61==>  inside the france matchvalidate that on selection of Franch/French link for patient and/professional is not visible :
+[INFO ] 2022-10-30 19:50:58.227 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 19:58:18.491 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 19:58:18.510 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:58:18.551 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:58:18.584 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:58:19.293 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:58:19.294 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:58:19.528 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:58:32.872 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 19:58:32.878 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:58:32.912 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:58:32.943 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:58:33.647 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:58:33.648 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:58:33.883 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:58:48.179 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 20:10:13.118 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 20:10:27.357 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateLinkNotPresentForFrance**************
+
+[INFO ] 2022-10-30 20:10:27.371 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:10:27.443 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:10:27.488 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:10:28.260 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:10:28.260 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:10:28.492 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:11:08.634 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 20:11:08.634 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateLinkNotPresentForFrance**************
+

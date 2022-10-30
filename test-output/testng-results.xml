@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="11" failed="0" skipped="3">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-30T20:09:16 IST" name="Abbott Code Challenge" finished-at="2022-10-30T20:13:55 IST" duration-ms="279203">
+    <groups>
+    </groups>
+    <test started-at="2022-10-30T20:09:16 IST" name="test-1" finished-at="2022-10-30T20:13:55 IST" duration-ms="279203">
+      <class name="tests.HomePageHeader">
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:18 IST" name="launch" finished-at="2022-10-30T20:09:36 IST" duration-ms="18234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateDefaultLoading(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:36 IST" name="validateDefaultLoading" description="validate patient is loaded by default and link(patient) is selected" data-provider="dataProvider1" finished-at="2022-10-30T20:09:38 IST" duration-ms="2241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDefaultLoading -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:38 IST" name="tearDown" finished-at="2022-10-30T20:09:39 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:39 IST" name="launch" finished-at="2022-10-30T20:09:59 IST" duration-ms="20313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateDefaultLoading(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:59 IST" name="validateDefaultLoading" description="validate patient is loaded by default and link(patient) is selected" data-provider="dataProvider1" finished-at="2022-10-30T20:09:59 IST" duration-ms="7" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test skipped as data is:France (FR)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test skipped as data is:France (FR)
+at tests.HomePageHeader.validateDefaultLoading(HomePageHeader.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDefaultLoading -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:59 IST" name="tearDown" finished-at="2022-10-30T20:09:59 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:09:59 IST" name="launch" finished-at="2022-10-30T20:10:13 IST" duration-ms="13299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateLinkNotPresentForFrance(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:10:13 IST" name="validateLinkNotPresentForFrance" description="validate that on selection of Franch/French link for patient and/professional is not visible" data-provider="dataProvider1" finished-at="2022-10-30T20:10:13 IST" duration-ms="35" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test skipped as data is:United States (US)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test skipped as data is:United States (US)
+at tests.HomePageHeader.validateLinkNotPresentForFrance(HomePageHeader.java:56)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLinkNotPresentForFrance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:10:13 IST" name="tearDown" finished-at="2022-10-30T20:10:13 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:10:13 IST" name="launch" finished-at="2022-10-30T20:10:27 IST" duration-ms="13970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateLinkNotPresentForFrance(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:10:27 IST" name="validateLinkNotPresentForFrance" description="validate that on selection of Franch/French link for patient and/professional is not visible" data-provider="dataProvider1" finished-at="2022-10-30T20:11:08 IST" duration-ms="41285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLinkNotPresentForFrance -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:08 IST" name="tearDown" finished-at="2022-10-30T20:11:09 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:09 IST" name="launch" finished-at="2022-10-30T20:11:22 IST" duration-ms="13097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateProfessionalLink(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:22 IST" name="validateProfessionalLink" description="Validate that on clicking professional new window opens and link(professional) is selected" data-provider="dataProvider1" finished-at="2022-10-30T20:11:44 IST" duration-ms="22009" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProfessionalLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:44 IST" name="tearDown" finished-at="2022-10-30T20:11:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:44 IST" name="launch" finished-at="2022-10-30T20:11:56 IST" duration-ms="12555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateProfessionalLink(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:56 IST" name="validateProfessionalLink" description="Validate that on clicking professional new window opens and link(professional) is selected" data-provider="dataProvider1" finished-at="2022-10-30T20:11:56 IST" duration-ms="12" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test skipped as data is:France (FR)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test skipped as data is:France (FR)
+at tests.HomePageHeader.validateProfessionalLink(HomePageHeader.java:74)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProfessionalLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:56 IST" name="tearDown" finished-at="2022-10-30T20:11:56 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:11:57 IST" name="launch" finished-at="2022-10-30T20:12:09 IST" duration-ms="12440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSameValueSelection(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:09 IST" name="validateSameValueSelection" description="Validate that on selecting the same values from header as during the page load, nothing changes on the home page" data-provider="dataProvider1" finished-at="2022-10-30T20:12:11 IST" duration-ms="2166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSameValueSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:11 IST" name="tearDown" finished-at="2022-10-30T20:12:11 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:11 IST" name="launch" finished-at="2022-10-30T20:12:25 IST" duration-ms="13109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSameValueSelection(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:25 IST" name="validateSameValueSelection" description="Validate that on selecting the same values from header as during the page load, nothing changes on the home page" data-provider="dataProvider1" finished-at="2022-10-30T20:12:26 IST" duration-ms="1904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSameValueSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:26 IST" name="tearDown" finished-at="2022-10-30T20:12:27 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:27 IST" name="launch" finished-at="2022-10-30T20:12:40 IST" duration-ms="13674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelection(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:40 IST" name="validateSelection" description="Validate correct data is displayed in header on selection" data-provider="dataProvider1" finished-at="2022-10-30T20:12:42 IST" duration-ms="1139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:42 IST" name="tearDown" finished-at="2022-10-30T20:12:42 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:42 IST" name="launch" finished-at="2022-10-30T20:12:55 IST" duration-ms="13052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelection(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:55 IST" name="validateSelection" description="Validate correct data is displayed in header on selection" data-provider="dataProvider1" finished-at="2022-10-30T20:12:56 IST" duration-ms="1208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:56 IST" name="tearDown" finished-at="2022-10-30T20:12:56 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:12:56 IST" name="launch" finished-at="2022-10-30T20:13:09 IST" duration-ms="12372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelectionOnClosure(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:09 IST" name="validateSelectionOnClosure" description="Validate correct data is displayed in header on selection" data-provider="dataProvider1" finished-at="2022-10-30T20:13:10 IST" duration-ms="1523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectionOnClosure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:10 IST" name="tearDown" finished-at="2022-10-30T20:13:10 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:10 IST" name="launch" finished-at="2022-10-30T20:13:23 IST" duration-ms="13005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelectionOnClosure(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:23 IST" name="validateSelectionOnClosure" description="Validate correct data is displayed in header on selection" data-provider="dataProvider1" finished-at="2022-10-30T20:13:25 IST" duration-ms="1664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectionOnClosure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:25 IST" name="tearDown" finished-at="2022-10-30T20:13:25 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:25 IST" name="launch" finished-at="2022-10-30T20:13:39 IST" duration-ms="13346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelectionWithoutSubmit(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:39 IST" name="validateSelectionWithoutSubmit" description="Validate nothing changes on the home page on opening modal, inputting values in dropdown, and closing without submit" data-provider="dataProvider1" finished-at="2022-10-30T20:13:40 IST" duration-ms="1489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=United States (US), language=English}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectionWithoutSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:40 IST" name="tearDown" finished-at="2022-10-30T20:13:41 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:41 IST" name="launch" finished-at="2022-10-30T20:13:53 IST" duration-ms="12881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="validateSelectionWithoutSubmit(java.util.HashMap)[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:53 IST" name="validateSelectionWithoutSubmit" description="Validate nothing changes on the home page on opening modal, inputting values in dropdown, and closing without submit" data-provider="dataProvider1" finished-at="2022-10-30T20:13:55 IST" duration-ms="1369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{country=France (FR), language=French}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectionWithoutSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageHeader@5d0a1059]" started-at="2022-10-30T20:13:55 IST" name="tearDown" finished-at="2022-10-30T20:13:55 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageHeader -->
+    </test> <!-- test-1 -->
+  </suite> <!-- Abbott Code Challenge -->
+</testng-results>

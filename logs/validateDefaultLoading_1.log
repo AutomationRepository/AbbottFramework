@@ -1,0 +1,741 @@
+[INFO ] 2022-10-28 15:37:15.562 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 15:37:15.591 - tests.HomePageHeader:validateDefaultLoading 34==>  Test1
+[INFO ] 2022-10-28 15:41:42.521 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 15:41:42.558 - tests.HomePageHeader:validateDefaultLoading 34==>  Test1
+[INFO ] 2022-10-28 17:21:05.087 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:24:19.209 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:28:48.899 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:32:21.133 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:41:34.623 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:44:41.036 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:52:16.018 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:53:46.595 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 17:53:46.705 - tests.HomePageHeader:validateDefaultLoading 35==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-28 18:18:22.001 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 19:46:07.064 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 20:04:44.091 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 20:04:44.766 - tests.HomePageHeader:validateDefaultLoading 35==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-28 20:35:23.974 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 20:35:25.017 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-28 20:41:24.997 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 20:42:27.381 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 20:58:29.281 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:01:36.270 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:03:39.907 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:08:44.378 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:09:48.856 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:11:05.257 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:13:03.628 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:18:51.002 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:30:40.051 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:49:44.364 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:55:07.043 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 21:57:06.074 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:00:22.435 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:07:56.806 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:10:15.519 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:11:08.060 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:11:09.177 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-28 22:13:38.859 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 22:13:39.865 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-28 23:14:07.494 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-28 23:14:08.454 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 00:08:04.319 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 00:08:05.424 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 12:53:05.093 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 12:53:18.582 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 13:39:04.499 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 13:39:23.454 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:09:47.607 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:09:48.642 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:10:01.884 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:10:03.057 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:14:58.176 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:14:59.460 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:15:14.698 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:15:15.808 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:24:59.062 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:25:12.559 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:32:22.758 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:32:38.394 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:39:21.367 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:39:22.491 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:39:36.158 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:42:17.968 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 14:42:19.028 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 14:42:35.120 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 15:00:51.680 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 15:00:52.754 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 15:01:06.032 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 15:01:07.138 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 15:16:31.024 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 15:16:32.146 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-29 15:16:48.783 - abbottLibreViewSetup.MyLogger:startTestCase 23==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-29 15:16:49.701 - abbottLibreViewPages.CookiePopupPage:closeCookieWindow 45==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 13:35:37.824 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 13:35:37.909 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 13:35:37.958 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:35:37.998 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:35:38.867 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 13:35:38.868 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 13:35:39.242 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 13:35:39.657 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 13:35:39.760 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 13:35:57.137 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 13:35:57.153 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 13:35:57.235 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:35:57.280 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:35:58.272 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 13:35:58.273 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 13:35:58.654 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 13:36:38.847 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 13:47:54.806 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 13:47:54.845 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 13:47:54.882 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:47:54.909 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:47:55.532 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 13:47:55.533 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 13:47:55.738 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 13:47:55.927 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 13:47:56.022 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 13:48:09.328 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 13:48:09.340 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 13:48:09.370 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:48:09.400 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 13:48:10.077 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 13:48:10.078 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 13:48:10.284 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 13:48:50.448 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 14:04:02.129 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:04:02.175 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:04:02.209 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:04:02.241 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:04:02.930 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:04:02.931 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:04:03.152 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:04:03.443 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 14:04:03.602 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 14:04:17.400 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:04:17.409 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:04:17.445 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:04:17.473 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:04:18.149 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:04:18.152 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:04:18.359 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:04:58.520 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 14:50:23.318 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:50:23.366 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:50:23.403 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:50:23.443 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:50:24.099 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:50:24.100 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:50:24.365 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:50:24.741 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 14:50:24.823 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 14:50:38.261 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:50:38.266 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:50:38.300 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:50:38.328 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:50:39.087 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:50:39.088 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:50:39.293 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:51:19.455 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 14:54:14.294 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:54:14.327 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:54:14.356 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:54:14.389 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:54:15.043 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:54:15.043 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:54:15.245 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:54:15.496 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 14:54:15.615 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 14:54:28.123 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:54:28.133 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:54:28.166 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:54:28.198 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:54:29.074 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:54:29.075 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:54:29.293 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:55:09.374 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 14:59:45.220 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:59:45.253 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:59:45.288 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:59:45.319 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:59:45.976 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:59:45.976 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:59:46.244 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 14:59:46.513 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 14:59:46.630 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 14:59:58.903 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 14:59:58.910 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 14:59:58.939 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:59:58.967 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 14:59:59.618 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 14:59:59.618 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 14:59:59.845 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 15:00:40.000 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 15:28:03.815 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 15:28:03.865 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 15:28:03.908 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:28:03.945 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:28:04.484 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 15:28:04.485 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 15:28:04.782 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 15:28:05.024 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 15:28:05.150 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 15:28:19.566 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 15:28:19.574 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 15:28:19.611 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:28:19.647 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:28:20.345 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 15:28:20.345 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 15:28:20.511 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 15:29:00.643 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 15:36:54.299 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 15:36:54.324 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 15:36:54.361 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:36:54.391 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:36:55.043 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 15:36:55.044 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 15:36:55.292 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 15:36:55.564 - abbottLibreViewPages.HomePage:isElementHighlighted 112==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 15:36:55.669 - abbottLibreViewPages.HomePage:validateBothElementPresent 61==>  link for both patient and professional is present
+[INFO ] 2022-10-30 15:37:08.552 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 15:37:08.558 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 15:37:08.587 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:37:08.620 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 15:37:09.545 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 15:37:09.547 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 15:37:09.735 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 15:37:49.848 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 68==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 18:00:56.969 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:00:57.015 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:00:57.085 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:00:57.146 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:00:57.984 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:00:57.985 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:00:58.357 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:00:58.631 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:00:58.632 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:01:13.628 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:01:13.636 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:01:13.688 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:01:13.743 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:01:14.566 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:01:14.566 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:01:14.857 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:01:55.007 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 18:01:55.008 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:10:10.513 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:10:10.563 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:10:10.634 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:10:10.691 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:10:11.389 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:10:11.391 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:10:11.775 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:10:12.063 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:10:12.064 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:10:32.448 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:10:32.456 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:10:32.517 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:10:32.570 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:10:33.328 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:10:33.329 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:10:33.680 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:11:13.844 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 18:11:13.845 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:44:15.744 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:44:15.791 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:44:15.859 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:44:15.917 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:44:16.767 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:44:16.768 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:44:17.184 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:44:17.484 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:44:17.485 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:44:34.037 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:44:34.052 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:44:34.142 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:44:34.215 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:44:35.113 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:44:35.115 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:44:35.405 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:45:15.583 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 18:45:15.584 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:57:31.016 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:57:31.119 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:57:31.264 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:57:31.360 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:57:32.303 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:57:32.304 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:57:32.782 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:57:33.099 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:57:33.100 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:57:53.441 - utilities.ListenerForEachTest:onTestStart 53==>  inside the france match 2.validate that on selection of Franch/French link for patient and/professional is not visible :
+[INFO ] 2022-10-30 18:57:53.452 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 18:57:53.463 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:57:53.524 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:57:53.587 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:57:54.499 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:57:54.499 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:57:54.887 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:58:35.072 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 18:58:35.073 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:08:31.701 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:08:31.736 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:08:31.794 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:08:31.830 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:08:32.432 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:08:32.432 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:08:32.653 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:08:32.864 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:08:32.865 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:08:47.128 - utilities.ListenerForEachTest:onTestStart 53==>  inside the france match 2.validate that on selection of Franch/French link for patient and/professional is not visible :
+[INFO ] 2022-10-30 19:08:47.135 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:08:47.141 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:08:47.174 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:08:47.204 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:08:47.908 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:08:47.909 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:08:48.135 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:09:28.398 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 19:09:28.399 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:18:21.896 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:18:21.956 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:18:22.042 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:22.133 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:23.270 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:18:23.271 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:18:23.697 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:18:23.948 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:18:23.949 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:18:44.490 - utilities.ListenerForEachTest:onTestStart 54==>  inside the france match 2.validate that on selection of Franch/French link for patient and/professional is not visible :
+[INFO ] 2022-10-30 19:18:44.492 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:18:44.496 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:18:44.528 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:44.559 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:45.426 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:18:45.427 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:18:45.748 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:19:26.090 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 19:19:26.091 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:23:36.100 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:23:36.132 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:23:36.186 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:36.241 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:37.128 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:23:37.129 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:23:37.584 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:23:37.794 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:23:37.796 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:23:51.450 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:23:51.457 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:23:51.492 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:51.536 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:52.411 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:23:52.412 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:23:52.664 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:24:32.892 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 19:24:32.892 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:29:20.344 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:29:20.386 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:29:20.455 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:20.527 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:21.370 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:29:21.371 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:29:21.771 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:29:21.940 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:29:21.941 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:29:36.997 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:29:37.004 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:29:37.054 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:37.097 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:37.926 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:29:37.926 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:29:38.208 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:30:18.435 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 19:30:18.436 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:43:49.812 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:43:49.870 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:43:49.942 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:43:49.998 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:43:50.943 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:43:50.944 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:43:51.452 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:43:51.952 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:43:51.953 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:44:07.521 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:44:07.529 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:44:07.579 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:44:07.623 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:44:08.464 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:44:08.465 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:44:08.703 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:44:48.840 - abbottLibreViewPages.HomePage:validateBothElementNotPresent 69==>  link for both patient and professional is not present
+[INFO ] 2022-10-30 19:44:48.841 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:50:26.238 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:50:26.286 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:50:26.329 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:50:26.368 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:50:27.180 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:50:27.181 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:50:27.529 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:50:27.883 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:50:27.884 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:57:48.900 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 19:57:48.925 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:57:48.960 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:57:49.012 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:57:49.765 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:57:49.767 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:57:50.103 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:57:50.530 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:57:50.531 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 20:09:36.345 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateDefaultLoading**************
+
+[INFO ] 2022-10-30 20:09:36.417 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:09:36.490 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:09:36.557 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:09:37.670 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:09:37.671 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:09:38.093 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:09:38.526 - abbottLibreViewPages.HomePage:isElementHighlighted 113==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 20:09:38.527 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateDefaultLoading**************
+

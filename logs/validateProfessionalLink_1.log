@@ -1,0 +1,358 @@
+[INFO ] 2022-10-30 16:02:45.147 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 16:02:45.183 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 16:02:45.223 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:02:45.250 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:02:45.896 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 36==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 16:02:45.896 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 16:02:46.126 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 16:02:46.127 - abbottLibreViewPages.HomePage:navigateToProfPage 74==>  current value of the window stored
+[INFO ] 2022-10-30 16:02:46.314 - abbottLibreViewPages.HomePage:selectProfessional 48==>  click on professional tab sucessful
+[INFO ] 2022-10-30 16:02:46.316 - abbottLibreViewPages.HomePage:navigateToProfPage 77==>  the professional tag is clicked
+[INFO ] 2022-10-30 16:02:46.318 - abbottLibreViewPages.HomePage:navigateToProfPage 79==>  Static wait started
+[INFO ] 2022-10-30 16:03:06.326 - abbottLibreViewPages.HomePage:navigateToProfPage 81==>  Static wait completed
+[INFO ] 2022-10-30 16:03:06.352 - abbottLibreViewPages.HomePage:navigateToProfPage 94==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 16:03:06.440 - abbottLibreViewPages.HomePage:isElementHighlighted 118==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 16:03:07.063 - abbottLibreViewPages.HomePage:closeAllWindows 102==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 16:03:07.063 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 16:03:07.072 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 16:03:19.810 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:02:11.250 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:02:11.333 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:02:11.389 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:02:11.445 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:02:12.161 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:02:12.162 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:02:12.438 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:02:12.440 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 18:02:12.704 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 18:02:12.705 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 18:02:12.705 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 18:02:32.706 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 18:02:32.742 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 18:02:32.882 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:02:32.942 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:02:33.951 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 18:02:33.952 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:02:33.957 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 18:02:49.322 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:11:29.449 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:11:29.490 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:11:29.558 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:11:29.616 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:11:30.379 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:11:30.380 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:11:30.713 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:11:30.714 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 18:11:31.006 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 18:11:31.007 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 18:11:31.007 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 18:11:51.020 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 18:11:51.055 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 18:11:51.187 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:11:51.231 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:11:51.865 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 18:11:51.866 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:11:51.870 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 18:12:10.260 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:50:51.298 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:50:51.380 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:50:51.487 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:50:51.593 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:50:52.583 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:50:52.584 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:50:53.018 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:50:53.018 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 18:50:53.313 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 18:50:53.314 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 18:50:53.315 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 18:51:13.329 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 18:51:13.362 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 18:51:13.501 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:51:13.549 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:51:14.560 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 18:51:14.561 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:51:14.579 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 18:51:33.811 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:58:52.374 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:58:52.425 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:58:52.477 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:58:52.529 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:58:53.401 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:58:53.402 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:58:53.789 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:58:53.790 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 18:58:54.113 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 18:58:54.114 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 18:58:54.114 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 18:59:14.123 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 18:59:14.156 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 18:59:14.301 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 18:59:14.355 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:59:15.195 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 18:59:15.196 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 18:59:15.202 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 18:59:34.340 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:09:41.702 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:09:41.735 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:09:41.781 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:09:41.812 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:09:42.383 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:09:42.384 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:09:42.633 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:09:42.634 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:09:42.842 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:09:42.843 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:09:42.843 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:10:02.854 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:10:02.887 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:10:02.992 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:10:03.019 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:10:03.653 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:10:03.653 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:10:03.660 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:10:16.823 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:18:17.898 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:18:17.984 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:18:18.064 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:18.117 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:19.254 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:18:19.255 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:18:19.816 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:18:19.817 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:18:20.530 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:18:20.531 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:18:20.532 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:18:40.537 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:18:40.590 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:18:40.927 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:18:40.980 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:18:42.581 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:18:42.585 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:23:35.418 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:23:35.482 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:23:35.572 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:35.643 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:23:36.509 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:23:36.509 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:23:37.196 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:23:37.197 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:23:37.418 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:23:37.419 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:23:37.420 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:23:57.426 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:23:57.449 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:23:57.629 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:23:57.691 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:23:58.567 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:23:58.568 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:23:58.577 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:24:12.408 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:29:19.822 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:29:19.885 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:29:19.961 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:20.010 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:29:20.954 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:29:20.955 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:29:21.382 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:29:21.383 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:29:21.717 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:29:21.718 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:29:21.719 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:29:41.731 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:29:41.783 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:29:42.027 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:29:42.123 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:29:43.056 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:29:43.056 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:29:43.072 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:29:56.906 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:39:17.181 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:39:17.275 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:39:17.393 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:17.463 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:18.262 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:39:18.263 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:39:18.739 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:39:18.740 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:39:18.965 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:39:18.966 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:39:18.968 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:39:38.982 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:39:39.030 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:39:39.420 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:39:39.516 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:39:40.336 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:39:40.337 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:39:40.357 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:39:53.781 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:50:59.597 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:50:59.622 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:50:59.659 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:50:59.689 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:00.477 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:51:00.478 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:51:00.805 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:51:00.807 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:51:01.206 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:51:01.208 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:51:01.208 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:51:21.221 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:51:21.273 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:51:21.558 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:51:21.613 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:51:22.664 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:51:22.664 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:51:22.676 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:51:35.280 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:59:01.102 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:59:01.148 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:59:01.179 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:01.206 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:01.964 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:59:01.964 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:59:02.225 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:59:02.227 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 19:59:02.546 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 19:59:02.546 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 19:59:02.547 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 19:59:22.556 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 19:59:22.570 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 19:59:22.652 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 19:59:22.681 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:59:23.378 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 19:59:23.379 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 19:59:23.403 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 19:59:37.001 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 20:11:22.169 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 20:11:22.185 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:11:22.218 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:11:22.251 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:11:22.918 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:11:22.918 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:11:23.090 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:11:23.091 - abbottLibreViewPages.HomePage:navigateToProfPage 75==>  current value of the window stored
+[INFO ] 2022-10-30 20:11:23.321 - abbottLibreViewPages.HomePage:selectProfessional 49==>  click on professional tab sucessful
+[INFO ] 2022-10-30 20:11:23.322 - abbottLibreViewPages.HomePage:navigateToProfPage 78==>  the professional tag is clicked
+[INFO ] 2022-10-30 20:11:23.322 - abbottLibreViewPages.HomePage:navigateToProfPage 80==>  Static wait started
+[INFO ] 2022-10-30 20:11:43.328 - abbottLibreViewPages.HomePage:navigateToProfPage 82==>  Static wait completed
+[INFO ] 2022-10-30 20:11:43.367 - abbottLibreViewPages.HomePage:navigateToProfPage 95==>  Focus moved from parent window to professional tab
+[INFO ] 2022-10-30 20:11:43.505 - abbottLibreViewPages.HomePage:isElementHighlighted 119==>  Element is highlighted with rgba(72, 145, 197, 1)
+[INFO ] 2022-10-30 20:11:43.539 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 20:11:44.158 - abbottLibreViewPages.HomePage:closeAllWindows 103==>  All open tabs/windows are closed
+[INFO ] 2022-10-30 20:11:44.159 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateProfessionalLink**************
+
+[INFO ] 2022-10-30 20:11:44.165 - abbottLibreViewSetup.SetUp:tearDown 37==>  The browser is closed already
+[INFO ] 2022-10-30 20:11:56.732 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateProfessionalLink**************
+

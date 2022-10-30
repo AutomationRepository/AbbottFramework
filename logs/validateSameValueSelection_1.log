@@ -1,0 +1,483 @@
+[INFO ] 2022-10-30 16:30:59.509 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 16:30:59.547 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 16:30:59.583 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:30:59.609 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:00.298 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 41==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 16:31:00.299 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 16:31:00.587 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 16:31:00.742 - abbottLibreViewPages.HomePage:isSelectionCorrect 131==>  current combinaton isUS: English
+[INFO ] 2022-10-30 16:31:00.879 - abbottLibreViewPages.HomePage:selectLanguage 54==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 16:31:00.888 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 16:31:00.920 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:01.002 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:01.124 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 41==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 16:31:01.161 - abbottLibreViewPages.HomePage:isSelectionCorrect 131==>  current combinaton isUS: English
+[INFO ] 2022-10-30 16:31:01.162 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 16:31:14.424 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 16:31:14.435 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 16:31:14.465 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:14.498 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:15.191 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 41==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 16:31:15.191 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 16:31:15.390 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 16:31:15.570 - abbottLibreViewPages.HomePage:isSelectionCorrect 136==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 16:31:15.697 - abbottLibreViewPages.HomePage:selectLanguage 54==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 16:31:15.703 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 30==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 16:31:15.787 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 32==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:15.817 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 34==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 16:31:15.934 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 41==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 16:31:15.967 - abbottLibreViewPages.HomePage:isSelectionCorrect 136==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 16:31:15.968 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:03:04.895 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:03:04.945 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:03:04.988 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:05.026 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:05.895 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:03:05.896 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:03:06.165 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:03:06.339 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:03:06.484 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 18:03:06.494 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:03:06.578 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:06.615 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:06.764 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:03:06.804 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:03:06.807 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:03:22.610 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:03:22.618 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:03:22.668 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:22.721 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:23.602 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:03:23.603 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:03:23.876 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:03:24.049 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 18:03:24.190 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 18:03:24.194 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:03:24.229 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:24.316 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:03:24.454 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:03:24.494 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 18:03:24.495 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:12:24.885 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:12:24.944 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:12:25.000 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:25.058 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:25.906 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:12:25.907 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:12:26.259 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:12:26.469 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:12:26.701 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 18:12:26.714 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:12:26.784 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:26.832 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:26.996 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:12:27.043 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:12:27.044 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:12:46.504 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:12:46.512 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:12:46.562 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:46.608 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:47.729 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:12:47.730 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:12:48.074 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:12:48.322 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 18:12:48.589 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 18:12:48.599 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:12:48.649 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:48.705 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:12:48.872 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:12:48.931 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 18:12:48.932 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:59:54.160 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 18:59:54.199 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:59:54.245 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:59:54.298 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:59:55.180 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:59:55.181 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 18:59:55.597 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 18:59:55.876 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:59:56.094 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 18:59:56.105 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 18:59:56.147 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:59:56.189 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 18:59:56.399 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 18:59:56.466 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 18:59:56.473 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:00:16.320 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:00:16.328 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:00:16.373 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:00:16.416 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:00:17.268 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:00:17.269 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:00:17.538 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:00:17.822 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:00:18.001 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:00:18.010 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:00:18.049 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:00:18.098 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:00:18.269 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:00:18.324 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:00:18.326 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:10:30.159 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:10:30.184 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:10:30.213 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:30.241 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:30.974 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:10:30.975 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:10:31.236 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:10:31.419 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:10:31.558 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:10:31.565 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:10:31.643 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:31.672 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:31.812 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:10:31.866 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:10:31.866 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:10:45.428 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:10:45.434 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:10:45.463 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:45.490 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:46.226 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:10:46.227 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:10:46.426 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:10:46.590 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:10:46.714 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:10:46.722 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:10:46.752 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:46.784 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:10:46.946 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:10:46.991 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:10:46.992 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:18:19.462 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:18:19.483 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:18:19.588 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:19.666 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:21.195 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:18:21.197 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:18:21.654 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:18:22.158 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:18:22.529 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:18:22.546 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:18:22.746 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:22.827 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:18:23.020 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:18:23.100 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:18:23.101 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:24:25.918 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:24:25.956 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:24:26.003 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:26.046 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:26.708 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:24:26.708 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:24:26.931 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:24:27.086 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:24:27.233 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:24:27.237 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:24:27.271 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:27.304 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:27.524 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:24:27.567 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:24:27.568 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:24:40.992 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:24:41.007 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:24:41.052 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:41.099 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:41.799 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:24:41.800 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:24:42.034 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:24:42.141 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:24:42.293 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:24:42.300 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:24:42.334 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:42.361 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:24:42.530 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:24:42.564 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:24:42.565 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:30:09.736 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:30:09.783 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:30:09.830 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:09.862 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:10.503 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:30:10.504 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:30:10.701 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:30:10.872 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:30:11.020 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:30:11.029 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:30:11.065 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:11.155 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:11.284 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:30:11.322 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:30:11.326 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:30:24.514 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:30:24.536 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:30:24.598 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:24.657 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:25.537 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:30:25.538 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:30:25.857 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:30:25.962 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:30:26.114 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:30:26.124 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:30:26.158 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:26.182 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:30:26.350 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:30:26.397 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:30:26.399 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:39:46.617 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:39:46.643 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:39:46.715 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:46.765 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:47.602 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:39:47.602 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:39:47.970 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:39:48.120 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:39:48.321 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:39:48.330 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:39:48.370 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:48.399 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:39:48.550 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:39:48.586 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:39:48.587 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:40:03.143 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:40:03.153 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:40:03.203 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:40:03.238 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:40:03.946 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:40:03.947 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:40:04.203 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:40:04.335 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:40:04.542 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:40:04.547 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:40:04.591 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:40:04.620 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:40:04.845 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:40:04.968 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:40:04.969 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:51:13.599 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:51:13.648 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:51:13.683 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:13.731 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:14.524 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:51:14.525 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:51:14.832 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:51:15.127 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:51:15.300 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:51:15.308 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:51:15.376 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:15.427 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:15.693 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:51:15.749 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:51:15.750 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:51:33.522 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:51:33.529 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:51:33.566 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:33.600 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:34.372 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:51:34.373 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:51:34.723 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:51:35.007 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:51:35.169 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:51:35.186 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:51:35.250 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:35.520 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:51:35.806 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:51:36.026 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 19:51:36.027 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:59:49.386 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 19:59:49.407 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:59:49.436 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:49.464 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:50.103 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:59:50.106 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 19:59:50.267 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 19:59:50.431 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:59:50.569 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 19:59:50.572 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 19:59:50.617 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:50.639 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 19:59:50.806 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 19:59:50.849 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 19:59:50.850 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:00:03.418 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:00:03.429 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:00:03.469 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:00:03.509 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:00:04.235 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:00:04.237 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:00:04.467 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:00:04.617 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 20:00:04.753 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 20:00:04.758 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:00:04.799 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:00:04.832 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:00:05.032 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:00:05.071 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 20:00:05.072 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:12:09.455 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:12:09.486 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:12:09.542 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:09.589 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:10.383 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:12:10.384 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:12:10.701 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:12:11.011 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 20:12:11.236 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 20:12:11.247 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:12:11.286 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:11.320 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:11.513 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:12:11.612 - abbottLibreViewPages.HomePage:isSelectionCorrect 140==>  current combinaton isUS: English
+[INFO ] 2022-10-30 20:12:11.613 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:12:25.037 - abbottLibreViewSetup.MyLogger:startTestCase 24==>  
+
+************** Execution Started : validateSameValueSelection**************
+
+[INFO ] 2022-10-30 20:12:25.048 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:12:25.095 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:25.152 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:25.958 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:12:25.958 - abbottLibreViewPages.CookiePopupPage:validatePopupAppears 33==>  Validate if the cookie pop-up is present
+[INFO ] 2022-10-30 20:12:26.244 - abbottLibreViewPages.CookiePopupPage:acceptCookieWindow 44==>  Cookie Pop-up was visible and is closed now
+[INFO ] 2022-10-30 20:12:26.501 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 20:12:26.658 - abbottLibreViewPages.HomePage:selectLanguage 55==>  click on top right corner where the language selection is mentioned
+[INFO ] 2022-10-30 20:12:26.662 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 31==>  implicit wait of 20 seconds completed
+[INFO ] 2022-10-30 20:12:26.693 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 33==>  country from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:26.717 - abbottLibreViewPages.ChooseCountryLanguagePage:setCountryAndLanguage 35==>  language from the dropdown is selected sucessfully
+[INFO ] 2022-10-30 20:12:26.882 - abbottLibreViewPages.ChooseCountryLanguagePage:clickOnSubmit 42==>  submit for the modal has be completed sucessfully
+[INFO ] 2022-10-30 20:12:26.930 - abbottLibreViewPages.HomePage:isSelectionCorrect 145==>  current combinaton isFR: Français
+[INFO ] 2022-10-30 20:12:26.931 - abbottLibreViewSetup.MyLogger:endTestCase 29==>  
+
+************** Execution End : validateSameValueSelection**************
+
