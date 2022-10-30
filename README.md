@@ -91,7 +91,7 @@ Test Cases.
 |                                                   | vi. Validate that patient and professional are not present in the header      | | 
 |             | vii. Close the browser | |
 |5. Validate nothing changes on the home page on opening, and closing modal without changes  | i. Load the URL   | Us/English  |
-|                                                   | ii. Select country and language from pop-up window      | | France/french
+|                                                   | ii. Select country and language from pop-up window      |  France/french |
 |                                                   | iii. Click on submit | |
 |                                                   | iv. Click on Accept cookies buttom[Conditional] | |
 |                                                   | v. check the data displayed on homepage for country and language |
@@ -99,8 +99,8 @@ Test Cases.
 |                                                   | vii. Click on x in the modal pop-up window |
 |                                                   | viii. Validate data on home page is unchanged      | |
 |             | ix. Close the browser | |
-|6. Validate nothing changes on the home page on opening modal, inputting values in dropdown, and closing without submit  | i. Load the URL   | Us/English  |
-|                                                   | ii. Select country and language from pop-up window      | | France/french
+|6. Validate nothing changes on the home page on opening modal, inputting values a different value in dropdown, and closing without submit  | i. Load the URL   | Us/English  |
+|                                                   | ii. Select country and language from pop-up window      |  France/french |
 |                                                   | iii. Click on submit | |
 |                                                   | iv. Click on Accept cookies buttom[Conditional] | |
 |                                                   | v. check the data displayed on homepage for country and language |
@@ -110,7 +110,7 @@ Test Cases.
 |                                                   | ix. Validate data on home page is unchanged      | |
 |             | vii. Close the browser | |
 |7. Validate that on selecting the same values from header as during the page load, nothing changes on the home page | i. Load the URL   | Us/English  |
-|                                                   | ii. Select country and language from pop-up window      | | France/french
+|                                                   | ii. Select country and language from pop-up window      | France/french| 
 |                                                   | iii. Click on submit | |
 |                                                   | iv. Click on Accept cookies buttom[Conditional] | |
 |                                                   | v. Click on country: language button in the header      | |
